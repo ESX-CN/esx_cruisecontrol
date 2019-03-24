@@ -1,15 +1,10 @@
 ## ESX CruiseControl
 
-CruiseControl System for ESX Framework.
+FiveM基于ESX框架的定速巡航系统
 
-Press **Y** to activate it.
+按 **Y** 激活。
 
-### Installation
-
-**Using [fvm](https://github.com/qlaffont/fvm-installer).**
-```bash
-fvm install --save esx_cruisecontrol
-```
+### 安装
 
 **Using Git Releases**
-Download the latest release : https://github.com/ESX-Org/esx_cruisecontrol/releases
+Download the latest release : https://github.com/ESX-CN/esx_cruisecontrol/releases
